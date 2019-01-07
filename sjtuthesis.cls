@@ -56,7 +56,7 @@
 %==========
 % Segment 1. Import LaTeX packages.
 %==========
-
+\RequirePackage{diagbox}
 \RequirePackage[centering,a4paper,body={16cm,22cm}]{geometry} %设置版面
 \RequirePackage{fancyhdr}
 \RequirePackage{lastpage}
